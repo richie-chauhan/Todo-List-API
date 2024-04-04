@@ -1,4 +1,7 @@
 ## Todo List API
+
+This project has been forked from jamalhassouni/Todo-List-API:master. We are using it to see if you have the requisite skills to get it up and running by following all the instructions presented here. 
+
 ## Details
 Todo List PHP Application Programming Interface
 
