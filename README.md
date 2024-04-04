@@ -2,15 +2,16 @@
 
 This project has been forked from jamalhassouni/Todo-List-API:master. We are using it to see if you have the requisite skills to get it up and running by following all the instructions presented here. 
 
+To complete this you must make the API and the UI work together. 
+
+* [Todo API](https://github.com/richie-chauhan/TodoAppAPI) - This project
+* [Todo UI](https://github.com/richie-chauhan/TodoAppUI)
+
 ## Details
 Todo List PHP Application Programming Interface
 
 PHP 7 script that adds a REST API to a MySQL 5.5 InnoDB database
 
-Related projects:
-
-[React todoApp](https://github.com/jamalhassouni/todoApp)
-This is a sample todo App written by React js and php
 
 ### Requirements
 * PHP 7.0 or higher with PDO drivers for MySQL, PgSQL or SqlSrv enabled
