@@ -18,9 +18,9 @@ PHP 7 script that adds a REST API to a MySQL 5.5 InnoDB database
 
 ## Installation and Configuration
 
-Create the MySQL database in from the todo.sql file in the repo.  
+Create the MySQL database in from the `todo.sql` file in the repo.  
   
-Edit the following lines in the bottom of the file "config/Database.php":  
+Edit the following lines in the bottom of the file `config/Database.php`:  
   
 ```php
     private $host = 'xxx';
