@@ -18,8 +18,10 @@ PHP 7 script that adds a REST API to a MySQL 5.5 InnoDB database
 
 ## Installation and Configuration
 
-Edit the following lines in the bottom of the file "config/Database.php":
-
+Create the MySQL database in from the todo.sql file in the repo.  
+  
+Edit the following lines in the bottom of the file "config/Database.php":  
+  
 ```php
     private $host = 'xxx';
     private $db_name = 'xxx';
@@ -36,5 +38,4 @@ Test the script by opening the following URL:
 `http://localhost:8080/index.php/`
 
 ## API 
-API methods are available here api.md
-```
+API methods are available here [api.md](https://github.com/richie-chauhan/TodoAppAPI/blob/master/api.md)
